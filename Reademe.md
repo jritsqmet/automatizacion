@@ -6,3 +6,5 @@
 usuario="emailg@itsqmet.edu.ec"
 contrasenia="Itsqmet..."
 ```
+
+### Instalar las dependencias
